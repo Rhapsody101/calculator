@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dkrasjen/Desktop/Calculator/Calculator/Calculator.csproj": {}
+    "/Users/dkrasjen/Desktop/MyCalculator/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/Users/dkrasjen/Desktop/Calculator/Calculator/Calculator.csproj": {
+    "/Users/dkrasjen/Desktop/MyCalculator/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dkrasjen/Desktop/Calculator/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/dkrasjen/Desktop/MyCalculator/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/Users/dkrasjen/Desktop/Calculator/Calculator/Calculator.csproj",
+        "projectPath": "/Users/dkrasjen/Desktop/MyCalculator/Calculator/Calculator.csproj",
         "packagesPath": "/Users/dkrasjen/.nuget/packages/",
-        "outputPath": "/Users/dkrasjen/Desktop/Calculator/Calculator/obj/",
+        "outputPath": "/Users/dkrasjen/Desktop/MyCalculator/Calculator/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
